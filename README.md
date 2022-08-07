@@ -1,4 +1,4 @@
-# eventkraeft
+# eventkraefte
 
 This organisation contains the code and documentation for the application stack of the eventkraefte GmbH.
 
